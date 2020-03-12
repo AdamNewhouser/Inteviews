@@ -62,13 +62,13 @@ Static functions in a PHP class can be accessed outside the class without needin
 7. What is the commonly used library for database connections?
 
 ```
-MySQL
+mysqlnd and PDO
 ```
 
 8. What is the commonly used library for making requests?
 
 ```
-AJAX
+jQuery
 ```
 
 9. What is PHP function strlen?
